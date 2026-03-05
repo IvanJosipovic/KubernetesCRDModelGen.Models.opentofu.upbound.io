@@ -7,11 +7,11 @@ metadata:
 spec:
   group: opentofu.m.upbound.io
   names:
+    kind: ClusterProviderConfig
     categories:
     - crossplane
     - provider
     - opentofu
-    kind: ClusterProviderConfig
     listKind: ClusterProviderConfigList
     plural: clusterproviderconfigs
     singular: clusterproviderconfig
